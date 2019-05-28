@@ -15,7 +15,7 @@
 //	char brr[] = "I am a student.";
 //	int sz = strlen(brr);
 //	printf("%d\n", sz);       //打印出brr的字符串长度
-//	Mystrcpy(arr, brr, sz);
+//	Mystrcpy(arr, brr, sz);//数组方式传参
 //	printf("%s\n", arr);
 //	system("pause");
 //	return 0;

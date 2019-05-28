@@ -121,6 +121,8 @@
     <ClCompile Include="4.cpp" />
     <ClCompile Include="5.cpp" />
     <ClCompile Include="6.cpp" />
+    <ClCompile Include="kai_pi_dong_tai_nei_chun.cpp" />
+    <ClCompile Include="zuo_xuan.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

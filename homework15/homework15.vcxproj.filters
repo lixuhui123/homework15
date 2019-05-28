@@ -33,5 +33,11 @@
     <ClCompile Include="6.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="kai_pi_dong_tai_nei_chun.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zuo_xuan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
